@@ -1,3 +1,5 @@
+> This repository explores hybrid infrastructure and automation concepts that later informed the HybridOps platform.
+> 
 # Windows Server and Network Administration with Automation
 
 This repository demonstrates a hybrid Windows infrastructure lab combining on-premise server roles with cloud identity and device management services.
