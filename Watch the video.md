@@ -1,4 +1,4 @@
-> :arrow_forward: **Click on the image below to play the video!**
+> :arrow_forward: **Click to play the video!**
 
 [<img src="https://img.youtube.com/vi/2B4VF5nqhFs/maxresdefault.jpg" width="600" height="300"
 />](https://youtu.be/2B4VF5nqhFs?t=2)
