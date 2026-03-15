@@ -1,8 +1,12 @@
 > This repository explores hybrid infrastructure and automation concepts that later informed the HybridOps platform.
-> 
+
 # Windows Server and Network Administration with Automation
 
-This repository demonstrates a hybrid Windows infrastructure lab combining on-premise server roles with cloud identity and device management services.
+Built with: Windows Server • Active Directory • Entra ID • Intune • SCCM • Proxmox • EVE-NG
+
+Hybrid infrastructure lab exploring Windows Server administration, hybrid identity architecture, device lifecycle automation and secure multi-site networking.
+
+This repository demonstrates a hybrid Windows infrastructure lab combining on-premise server roles with cloud identity and modern device management services.
 
 The environment explores enterprise administration patterns including hybrid identity, automated device provisioning, infrastructure governance, and secure network architecture.
 
@@ -88,9 +92,9 @@ A walkthrough of the environment and architecture is available here:
 
 ---
 
-## Related Work
+## Related Platform
 
-Concepts explored in this repository later informed the HybridOps platform.
+These concepts later informed the design philosophy behind the HybridOps platform.
 
-HybridOps overview:  
-[https://hybridops.tech/why](https://hybridops.tech/why)
+HybridOps Platform Overview  
+[HybridOps platform overview](https://hybridops.tech/why)
